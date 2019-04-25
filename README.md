@@ -1,0 +1,2 @@
+# first-algo
+starting point
